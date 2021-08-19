@@ -15,4 +15,4 @@ To start the project you need the following programs:
 
 1. [Exercise materials ](http://tnt.etf.bg.ac.rs/~ms1dvs/vez.htm)
 2. [DE10-Standard User Manual](https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&CategoryNo=205&No=1081&PartNo=1)
-3.
+3. [Implementing Nios II on DE10-Lite - SDSU EE492](https://www.youtube.com/watch?v=ValQ_4w2liE)
